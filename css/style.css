@@ -1,0 +1,19 @@
+h1 {
+
+    font-family: fantasy;
+}
+
+h1 {
+
+    font-weight: 90000;
+}
+
+body {
+
+    background-color: white;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+}
